@@ -6,12 +6,10 @@ sections:
     section_id: hero_section
     background_image: images/タイトル.png
     background_image_opacity: 65
-    content: >
+    content: |
       # リアル脱出ゲーム
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      嘘を見抜け！混乱した社会を救え…！〜暴走したAIを食い止めよ〜
     actions:
       - title: See all items
         url: /store
