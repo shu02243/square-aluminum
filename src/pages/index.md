@@ -11,7 +11,7 @@ sections:
 
       嘘を見抜け！混乱した社会を救え…！〜暴走したAIを食い止めよ〜
     actions:
-      - title: See all items
+      - title: へー無スタート
         url: /store
         arrow: true
         style: primary
